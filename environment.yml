@@ -18,3 +18,4 @@ dependencies:
   - pyviz::panel
   - pip:
       - jupyter-panel-proxy
+      - carto2gpd
