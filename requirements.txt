@@ -9,3 +9,4 @@ datashader
 holoviews
 hvplot
 bokeh
+carto2gpd
