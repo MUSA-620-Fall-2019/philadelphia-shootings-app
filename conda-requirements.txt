@@ -1,4 +1,4 @@
-geopandas==0.5.1
+geopandas
 folium
 altair
 notebook
