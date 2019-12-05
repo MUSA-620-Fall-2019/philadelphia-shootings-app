@@ -1,7 +1,7 @@
 panel
 geopandas
 folium
-altair
+altair==3.2.0
 notebook
 vega
 param
