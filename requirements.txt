@@ -1,14 +1,2 @@
-git+git://github.com/SciTools/cartopy
-geopandas==0.5.1
-folium
-altair
-notebook
-vega
-param
-datashader
-holoviews
-geoviews
-hvplot
-bokeh
-panel
-carto2gpd
+Cython
+-r ./prod-requirements.txt
