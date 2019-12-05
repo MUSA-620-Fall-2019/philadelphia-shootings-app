@@ -1,4 +1,5 @@
 geopandas
+cython
 folium
 altair
 notebook
