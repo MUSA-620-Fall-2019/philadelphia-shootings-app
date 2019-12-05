@@ -1,3 +1,4 @@
+Cython
 Cartopy==0.16.0
 geopandas==0.5.1
 folium
