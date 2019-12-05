@@ -10,6 +10,7 @@ dependencies:
   - notebook
   - vega
   - pyviz::holoviews
+  - pyviz::geoviews
   - pyviz::hvplot
   - bokeh::bokeh
   - pyviz::panel
