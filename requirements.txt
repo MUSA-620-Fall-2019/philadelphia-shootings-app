@@ -1,1 +1,11 @@
 panel
+geopandas
+folium
+altair
+notebook
+vega
+param
+datashader
+holoviews
+hvplot
+bokeh
