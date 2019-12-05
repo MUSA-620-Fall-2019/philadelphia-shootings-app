@@ -1,2 +1,0 @@
-Cython
--r ./prod-requirements.txt
